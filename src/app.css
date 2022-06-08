@@ -71,7 +71,12 @@ button{
 .habit-button:hover{
   opacity: 0.8;
 }
-
+.habits-reset{
+  font-size: 1.5rem;
+  padding: 0.2em 1em;
+  background-color: green;
+  color : wheat;
+}
 .habit-increase,
 .habit-decrease{
   color: goldenrod;
